@@ -1,0 +1,40 @@
+img {
+    height: auto;
+    width: 720px;
+}
+
+h1 {
+    font-family: Tahoma, Arial;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+}
+
+.list {
+    font-size: 20px;
+    font-family: Arial, Verdana;
+    color: rgb(255, 255, 255);
+    background-color: red;
+}
+
+#mainpage {
+    background-color: #0000ff70;
+    font-size: 13px;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+}
+
+.ingredients,
+.steps {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.ingredients {
+    color: #0089ff;
+}
+
+.steps {
+    color: #d50000;
+}
